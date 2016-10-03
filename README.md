@@ -2,7 +2,7 @@
 
 Our products must provide the most valuable information at the most appropriate time to our users. As our core technology works to distill information from complex data streams, the products and services built on this technology must be able to turn that information into action.
 
-The problem in this exercise constructs a stylized version of a problem we regularly face at Alluvium: how to convey statistical findings to users in an informative and compelling way.
+The problem in this exercise constructs a stylized version of a problem we regularly face: how to convey statistical findings to users in an informative and compelling way.
 
 ## The Problem
 
