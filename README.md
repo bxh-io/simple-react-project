@@ -53,4 +53,4 @@ You have **7 days** from when you receive these exercise instructions to submit 
 
 ## Evaluation
 
-This take home exercise ask you to build a solution to a basic product engineering problem we face at Alluvium. Therefore, your submission will be evaluated based on common software engineering best practices. If you are invited in for an on-site interview your first meeting will be a review of the code you submit for this exercise. As such, we expect that your submission is a reflection of the quality of code you would submit for review as a professional software engineer.
+This take home exercise ask you to build a solution to a basic product engineering problem we face. Therefore, your submission will be evaluated based on common software engineering best practices. If you are invited in for an on-site interview your first meeting will be a review of the code you submit for this exercise. As such, we expect that your submission is a reflection of the quality of code you would submit for review as a professional software engineer.
